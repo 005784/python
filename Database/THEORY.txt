@@ -1,0 +1,7 @@
+steps:
+step1:we need to import sqlite package.
+step2:then we are creating a connection using connect method and passing the name of the database
+step3:after this ,a cursor object is called to be capable to send commands to sql
+cursor object is used to make the connection for sql queries.it acts as the middleware between sqlite db and sql query
+all the commands are executed using cursor object only.
+
